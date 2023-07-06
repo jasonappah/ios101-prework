@@ -24,6 +24,7 @@
 		F5077A732A55FF9E00D4037A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5077A762A55FF9E00D4037A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5077A782A55FF9E00D4037A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F534CC0C2A565265005F7FC6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		F5077A5E2A55FF9C00D4037A = {
 			isa = PBXGroup;
 			children = (
+				F534CC0C2A565265005F7FC6 /* README.md */,
 				F5077A692A55FF9C00D4037A /* IOS101-Prework */,
 				F5077A682A55FF9C00D4037A /* Products */,
 			);
