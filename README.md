@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Simulator Screen Recording - iPhone 14 Pro - 2023-07-05 at 21 23 11](https://github.com/jasonappah/ios101-prework/assets/30608521/b6ffe449-b808-4a3e-83c6-f844b4552682)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Xcode Simulator's screen recording function
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,6 +36,8 @@ GIF created with ...
 
 [Notion](https://notion.so)
 - Accessible across all my devices
+- Good template documents, making it easier to get started
+- Able to quickly search previous writing/notes
 
 [Spotify](https://spotify.com) 
 - Handoff music playback from one device to another
@@ -46,10 +48,6 @@ GIF created with ...
 - App that uses your calendar to find out how much free time you have and how much time you spend in events on each calendar per week.
 - A app that helps you maintain relationships by periodically reminding you to contact a randomly selected friend you haven't talked to in a while.
 - An app for when you wake up late. You tell it when you’re about to leave, and your desired location, and it’ll play a metronome letting you know what pace you need to walk in order to make it to class on time 
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
